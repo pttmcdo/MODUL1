@@ -1,0 +1,1 @@
+print("Saya programmer No.1")
